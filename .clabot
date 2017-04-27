@@ -1,6 +1,8 @@
 {
-  "contributors" : [
+  "contributors": [
     "ColinEberhardt",
     "github-cla-bot"
-  ]
+  ],
+  "label": "bug",
+  "message": "No CLA\nDude!"
 }
